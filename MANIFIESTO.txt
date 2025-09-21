@@ -1,0 +1,18 @@
+Listado de archivos generado: 2025-09-03 04:12:47.117017
+
+./calendario.html  (2632 bytes)
+./catalogo.html  (4897 bytes)
+./educativo.html  (6665 bytes)
+./index.html  (2664 bytes)
+./login.html  (1240 bytes)
+./mapa.html  (2515 bytes)
+./perfil.html  (2573 bytes)
+./reservar.html  (2819 bytes)
+./reservas.html  (2676 bytes)
+assets/css/styles.css  (1699 bytes)
+assets/js/app.js  (4399 bytes)
+assets/js/booking.js  (4881 bytes)
+assets/js/calendario.js  (386 bytes)
+assets/js/catalogo.js  (4691 bytes)
+assets/js/mapa.js  (1165 bytes)
+assets/js/reservas.js  (503 bytes)
